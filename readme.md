@@ -1,23 +1,84 @@
-# O porque disso tudo ? 
+# 📚 Por que esse repositório existe?
 
-### Leia atentamente com atenção e com carinho ;) 
+### Leia com carinho, atenção e, se puder, com o coração aberto. 😉
 
+---
 
-# Meu começo. O início pela tecnologia.
+## 🌱 O começo: minha paixão pela tecnologia
 
-#### Desde criança, sempre fui muito ligado a área de tecnologia, era fascinado em entender como as mágias do mundo hacking acontecia, isso me fez aproximar de redes de computadores, programação e outros assuntos, isso me fez conhecer o grande grupo chamado de Anonymous, sim, acredito que não só pra mim, eles foram uma inspiração na época para todos, e isso me fez virar cada vez mais entusiasta em computação. Porém nem tudo é muito lindo, na época meu computador era bem ruim, aqueles que serviam apenas para estudar e jogar alguns jogos bem leve, e as informações naquele periodo era bem complicado, a internet não era acessível a todos, e a velocidade era baixa demais, planos de 2mb por mês. Porém como todo jovem tive minhas aventuras de começar a estudar algo e logo parar, exemplo foi criar um canal no youtube chamado Primos da computação, onde fizemos 2 videos ensinando HTML e paramos :(, não tinhamos incentivos e nem recursos para continuar, poré, me orgulho de tentar iniciar algo, mesmo que não tenha dado certo.
+Desde pequeno, sempre fui muito conectado ao mundo da tecnologia. Era fascinado por entender como as "mágicas" do hacking aconteciam. Isso me aproximou do universo das redes, programação e outros temas relacionados. Foi assim que conheci o lendário grupo Anonymous — sim, acredito que para muitos da minha geração, eles foram uma grande inspiração.
 
+Mas nem tudo era simples: meu computador era daqueles bem básicos, usados só para estudar e rodar jogos leves. A internet era precária, com planos de 2mb e velocidade limitadíssima. Mesmo assim, tive minhas primeiras aventuras: criei um canal no YouTube chamado *Primos da Computação*, onde eu e um primo postamos dois vídeos ensinando HTML. E... paramos ali. 😅 Faltaram recursos, incentivo e até maturidade. Ainda assim, me orgulho de ter tentado algo, mesmo sem ter dado certo.
 
-## Pausa para aventuras.
+---
 
-#### É pessoal, depois disso tudo muita coisa aconteceu, aquela paixão por tecnologia foi sendo quebrada devido a fatores da vida, novos interesses, namoros e rebeldia em não estudar me fizeram a não progredir nos estudos e o que me fez ter um pensamento errado. "Eu quero ser militar, para que estudar? Eu não preciso disso" Bem, foi a maior burrada que fiz em toda minha vida, Depois que decidi ir para o alistamento obrigatório e tentar seguir carreira minha vontade por tecnologia caiu e deixei o tempo passar, você sabe que não foi uma boa ideia né ? Se vc tiver indo por esse caminho por favor, não faça o mesmo. Lá vai eu para o exército brasileiro...............................Fui e depois de 10 meses voltei, me arrependo ? Não, iria novamente ? Sim, mas isso é uma outra história :D
+## 🧭 Pausa para aventuras e desvios
 
+A vida foi acontecendo, e aquela paixão pela tecnologia começou a se apagar. Novos interesses surgiram, relacionamentos, rebeldia, e a falta de foco nos estudos me levou a pensar:  
+> "Quero ser militar. Pra que estudar? Não preciso disso."
 
-## MEU PRIMEIRO EMPREGO DE CLT 
+Esse foi, talvez, o maior erro da minha vida. Entrei para o exército, participei do serviço obrigatório... e depois de 10 meses, voltei. Me arrependo? Não. Faria de novo? Com certeza. Mas isso já é outra história. 😄
 
-#### Bom pessoal, muita coisa irei pular para não extender tanto, porém os outros detalhes, talvez vocês vejam em um futuro livro, quem sabe, mas vamos o que interessa. Depois que voltei do exército brasileiro, conheci uma mulher incrível que se chama Marianne, bom, essa mulher hoje é minha incrível e linda esposa, é o que me da forças para continuar, é o motivo de fazer loucuras para progredir, eu sempre falo que por trás de um grande homem, existe uma grande mulher, nos casamos sem ter nada, e nem muito menos emprego, apenas muito amor e querencia de crescer. Mas Deus abençoou e consegui um emprego nas Americanas, como OPERADOR DE CAIXA meus amigos, descarregava caminhão todo dia, saia de casa 04:10 da manha e chegava 18:00 fiz isso por quase 1 ano e 5 meses. Porém percebi uma coisa e que muitos falavam para mim, Leo, você não está lá por acaso, quando caí na realidade eu estava nas americanas, na maior empresa de varejo do Brasil, centenária, e trabalhando na SEDE da empresa. Via os diretores e presidente todos os dias, engravatados e correndo contra o tempo para cumprir suas agendas extensas e importantes, e isso me despertou uma vontade de crescer na vida e ser como eles, nesse dia eu disse " Eu serei um executivo como eles", nesse dia aquele emprego que era apenas o primeiro sem visão de futuro começou a virar obseção, de uma maneira corrida eu passei no ENEM, eu era o quinto colocado na fila do PROUNI para apenas 1 vaga para Analise e Desenvolvimento de Sistemas, fiquei triste pq tinha 4 candidatos na minha frente e que possivelmente não iriam deixar a oportunidade passar, mas vc acredita que depois de tanta oração eles deixaram a oportinidade para trás, e eu consegui, YES, sim, a vaga era minha para uma bolsa de 100% e ainda a distância. E isso me ajudou a crescer na empresa, vou dizer no próximo bloco :D
+---
 
-## Crescimento na Empresa
+## 👨‍💼 Meu primeiro emprego CLT
 
-#### Depois de iniciar na faculdade em Tecnologia e reacender aquele amor pela computação, coloquei na minha cabeça que não queria mais ficar descarregando caminhão, e que eu merecia algo melhor, a partir desse ponto eu pensei "Cheio de diretores por aqui, vou meter a cara e pedir uma oportunidade de crescimento para alguma outra área", normalmente nas americanas existe o monitoramente de imagem, trabalhava todo dia de madrugada e ainda ganhava um pouco melhor, pelo menos nunca mais descarregaria caminhão, e foi exatamente o que eu fiz, sem vergonha fui falando 1 por 1 até conseguir uma oportunidade e pra lá fui. Bom, acelerando a história eu gostava do monitoramento, vibrava quando ligava para a policia informando que o meliante estava assaltando a loja, e via a policia chegando na loja pelas cameras e efetuando a prisão dos bandidos, era lindo de se ver, porém eu precisava usar as ferramentas que eu tinha em mãos para crescer  dentro da empresa, existia uma ferramenta chamada workchat, utilizavamos para entrar em contato com outras áreas no geral, e para comunicação da empresa como avisos, etc, Nesse momento pensei "Vou entrar em contato com a equipe de segurança da informação da empresa e pedi informações do que posso estudar para acelerar meu estudo para entrar na área" Criei um texto padrão e enviei para mais de 15 pessoas, só não pensava que iria mandar para o gerente Daniel Neto, até então o cabeça de segurança da informação do grupo americanas, até os diretores tinham medo dele, mas calma, medo no bom sentido, o cara era o cérebro de segurança daquele empresa. Ficou curioso para saber o depois né ? Vou te contar na próxima.
+Muita coisa aconteceu até aqui (alguns detalhes podem virar capítulos de um futuro livro, quem sabe?), mas vamos ao ponto. Após sair do exército, conheci uma mulher incrível: Marianne. Hoje, ela é minha esposa — a pessoa que me dá forças e me motiva a evoluir todos os dias. Casamos sem ter nada, nem emprego, só amor e vontade de vencer.
+
+Logo consegui um emprego nas Americanas, como operador de caixa. Acordava às 4h10, chegava em casa às 18h. Descarregava caminhões todo santo dia. Fiquei nessa rotina por quase 1 ano e 5 meses.
+
+Até que um dia caiu a ficha. Eu trabalhava na sede da maior rede varejista do Brasil. Via diretores e presidentes circulando, todos engravatados, vivendo intensamente. Foi aí que pensei:
+> “Eu quero ser um executivo como eles.”
+
+Na mesma época, fiz o ENEM. Estava em 5º lugar no PROUNI, disputando 1 vaga para Análise e Desenvolvimento de Sistemas. Chance quase zero. Mas... os 4 candidatos da frente não aceitaram a vaga. E ela foi minha. 💥 100% de bolsa. EAD. O jogo virou.
+
+---
+
+## 🚀 Crescimento na empresa
+
+Com a faculdade, reacendi meu amor pela computação. Prometi a mim mesmo que nunca mais descarregaria caminhão. Sabia que poderia mais. Resolvi tentar algo diferente: fui pedir oportunidade para o setor de monitoramento de imagem.
+
+Trabalhei de madrugada, ganhava um pouco mais, e adorava o que fazia. Vibrava quando ligava para a polícia e via os bandidos sendo presos em tempo real pelas câmeras. Mas não parei por aí.
+
+Existia uma ferramenta interna chamada *WorkChat*. Usada para avisos e contatos entre setores. Resolvi escrever uma mensagem padrão e enviar para mais de 15 pessoas da equipe de segurança da informação da empresa, pedindo dicas de estudo.
+
+Mas sem saber, acabei enviando para o próprio **Daniel Neto**, gerente e referência de cibersegurança no grupo. Sim, o cara. Quer saber o que aconteceu?
+
+---
+
+## ✨ Deus abençoa quem corre atrás
+
+No dia seguinte, à noite, vi a resposta dele:
+
+> “Como é bom saber que tem pessoas dentro da empresa que se interessam pela área. O que você tem estudado? Vamos fazer isso acontecer. Quer entrar no time?”
+
+Sem acreditar, marcamos uma conversa às 00h via Google Meet. Conversamos sobre a área, sobre ele, e sobre o que ele buscava: alguém com brilho nos olhos. E ele viu isso em mim.
+
+Pouco tempo depois, a papelada foi feita, e lá estava eu: oficialmente atuando com **pentest** e **segurança ofensiva**. Meu sonho estava acontecendo. Nunca mais esqueci esse nome: **Daniel Neto**. Ele continua sendo minha inspiração.
+
+---
+
+## 💥 O caos nas Americanas... e o fim de um sonho (ou começo de outro)
+
+Um ano se passou. E aí... todo mundo já sabe: o escândalo nas Americanas explodiu.
+
+Aqueles diretores que admirava foram os mesmos envolvidos na fraude contábil bilionária. Um clima de medo, demissões em massa, listas circulando. De 28 pessoas no time de Cyber, sobraram 12. Ninguém foi demitido — todos pediram para sair.
+
+O gerente que acreditou em mim também pediu desligamento. Aquilo era o fim de um ciclo. Eu precisava pensar em mim, na minha esposa, na nossa vida. Fui indicado para uma vaga em uma das maiores empresas de consultoria do mundo.
+
+Hoje, sou **analista de segurança na PwC**. Não virei executivo nas Americanas, mas... o sonho não morreu. Ele só mudou de endereço.
+
+---
+
+## 🧠 E o repositório, onde entra?
+
+Esse repositório nasceu como um compromisso comigo mesmo. Um **diário de bordo**. Um **guia de estudos**. Um **projeto pessoal que quero tornar público**, para ajudar quem também sonha em crescer, aprender e transformar suas vidas por meio da cibersegurança.
+
+Quero ser um CISO. Um executivo. E esse repositório será o reflexo do meu caminho até lá. Seja bem-vindo à jornada.
+
+---
+
+**Com carinho,  
+Leonardo**
+
 
