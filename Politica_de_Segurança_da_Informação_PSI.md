@@ -210,9 +210,6 @@ A presente Política de Segurança da Informação foi aprovada pela Diretoria E
 > 💡 *Explicação:* Ter a aprovação formal da alta gestão dá força e legitimidade ao documento.
 
 ---
-
-## Agora já temos alguns pontos interessantes a ser estudado e aperfeiçoado, e uma PSI completa. 
-
+ 
 # PONTOS DE ATENÇÃO E INFORMATIVO
-
-#### Não existe uma regra fixa ou uma norma específica que defina um período exato para a revisão da Política de Segurança da Informação (PSI), como "a cada 10 dias" ou "um ano". No entanto, algumas diretrizes e boas práticas podem ser seguidas para determinar o intervalo de revisão, dependendo do contexto da organização. Embora a ISO/IEC 27001 e outras boas práticas não definam um intervalo fixo (como 10 dias ou um ano), uma revisão anual é bastante comum, com ajustes feitos conforme necessário, em resposta a mudanças nos negócios ou no cenário de segurança. Se sua empresa está em um ambiente de rápido crescimento ou com risco elevado, você pode optar por uma revisão mais frequente, enquanto em uma empresa mais estável, uma revisão anual pode ser suficiente.
+Não existe uma regra fixa ou uma norma específica que defina um período exato para a revisão da Política de Segurança da Informação (PSI), como "a cada 10 dias" ou "um ano". No entanto, algumas diretrizes e boas práticas podem ser seguidas para determinar o intervalo de revisão, dependendo do contexto da organização. Embora a ISO/IEC 27001 e outras boas práticas não definam um intervalo fixo (como 10 dias ou um ano), uma revisão anual é bastante comum, com ajustes feitos conforme necessário, em resposta a mudanças nos negócios ou no cenário de segurança. Se sua empresa está em um ambiente de rápido crescimento ou com risco elevado, você pode optar por uma revisão mais frequente, enquanto em uma empresa mais estável, uma revisão anual pode ser suficiente.
