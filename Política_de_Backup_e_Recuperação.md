@@ -126,6 +126,63 @@ Esta política deverá ser revisada **anualmente** ou sempre que houver **mudan�
 A presente Política de Backup e Recuperação foi aprovada pela **Diretoria Executiva** em **15/04/2025** e entra em vigor na presente data.
 
 ---
+# ✅ EXEMPLO PRÁTICO: TESTE DE RESTAURAÇÃO DE BACKUP DE ARQUIVOS
+
+## 🎯 Objetivo
+Garantir que o backup realizado é restaurável e funcional, dentro dos tempos aceitáveis (RTO e RPO definidos pela empresa).
+
+---
+
+## 🧩 Pré-requisitos
+
+- Acesso à ferramenta de backup (ex: Veeam, Acronis, Bacula, etc.)
+- Acesso ao repositório de backup (NAS, fita, S3, etc.)
+- Ambiente de testes ou sandbox (de preferência, isolado)
+- Lista de arquivos críticos para restaurar
+
+---
+
+## 🧪 PASSO A PASSO DO TESTE DE RESTAURAÇÃO
+
+### 1. Identificar o ponto de restauração
+- Abrir a ferramenta de backup
+- Localizar o ponto de backup mais recente
+- Verificar integridade (checksum, logs)
+
+### 2. Selecionar os arquivos/pastas críticos
+- Exemplo: `\\SRV-FILES\Financeiro\2024\Planilha_Faturamento.xlsx`
+- Pode ser apenas uma amostragem do backup total
+
+### 3. Escolher o destino da restauração
+- De preferência, restaurar em:
+  - Ambiente de testes
+  - Outra pasta com sufixo `_restaurado`
+  - Máquina virtual temporária
+
+### 4. Iniciar a restauração
+- Escolher tipo: restauração completa ou granular
+- Monitorar tempo total (comece a contar o RTO!)
+
+### 5. Verificar os arquivos restaurados
+- Conferir se os arquivos foram restaurados corretamente
+- Abrir arquivos e validar integridade (sem corrompimento)
+
+### 6. Registrar resultados
+- Tempo de restauração (RTO)
+- Data/hora do backup usado (RPO)
+- Status da restauração (ok/falha)
+- Observações (ex: lentidão, erro de acesso, etc.)
+
+### 7. Limpar o ambiente de testes
+- Deletar arquivos restaurados
+- Remover snapshots ou VMs usadas para teste
+
+### 8. Documentar
+- Preencher relatório do teste com data, responsável, resultado, lições aprendidas
+
+---
+
+
 
 # Teste de Restauração de Backup – [NOME DO SERVIDOR/ARQUIVO]
 
