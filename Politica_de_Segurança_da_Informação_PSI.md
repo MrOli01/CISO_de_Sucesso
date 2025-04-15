@@ -37,3 +37,35 @@
 #### É exigência de normas e certificações, como ISO 27001, LGPD, GDPR etc.
 #### Demonstra comprometimento com a governança da informação.
 
+## REALIZANDO NA PRÁTICA UMA POLÍTICA DE SEGURANÇA DA INFORMAÇÃO
+
+Agora que temos noção do que é uma política de segurança da informação, e temos uma base para elaborar sua estrutura, nada melhor do que colocar a mão na massa e fazer uma do 0.
+
+### 🧾 POLÍTICA DE SEGURANÇA DA INFORMAÇÃO (PSI)
+
+#### Nome da Empresa: Helv CyberTech 
+#### Versão: 1.0 
+#### Data de Criação: 15/04/2025
+#### Responsável: Gerência de Segurança da Informação
+#### Aprovação: Diretoria Executiva
+
+## 1. OBJETIVO 
+### Texto Oficial: 
+#### Esta Política de Segurança da Informação tem como objetivo estabelecer diretrizes, regras e responsabilidades para proteger os ativos de informação da Helv CyberTech LTDA, garantindo sua confidencialidade, integridade e disponibilidade, de acordo com leis, normas e boas práticas de mercado.
+
+#### Explicação: Aqui deixamos claro o propósito principal da política. Isso mostra que ela existe para proteger dados e sistemas da empresa, e que está alinhada com leis como LGPD, ISO 27001, etc
+
+## 2. ABRANGÊNCIA
+### Texto Oficial:
+#### Essa política se aplica a todos os colaboradores, terceiros, fornecedores, prestadores de serviços, estagiários e qualquer pessoa que utilize os ativos de informação da empresa, seja de forma local ou remota.
+
+#### Explicação: Define quem está sujeito à política. Não basta pensar só nos funcionários - precisamos incluir fornecedores, consultores, parceiros e até visitantes, dependendo do risco.
+
+## 3. DEFINIÇÕES 
+### Texto Oficial:
+#### *Ativo de informação*: Qualquer dado, sistema, infraestrutura, software, hardware ou conhecimento que tenha valor para a empresa
+#### *Confidencialidade*: Garantia de que a informação seja acessada apenas por pessoas autorizadas.
+#### *Integridade*: Garantia de que a informação não seja alterada de forma não autorizada.
+#### *Disponibilidade* Garantia de que a informação esteja acessível sempre que necessário.
+
+#### Explicação: É sempre importante definir os termis-chaves para que todos entendam a pol´pitica corretamente, isso evita dúvidas e mal-entendidos.
