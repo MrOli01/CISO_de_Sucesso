@@ -127,3 +127,45 @@ A presente Política de Backup e Recuperação foi aprovada pela **Diretoria Exe
 
 ---
 
+# Teste de Restauração de Backup – [NOME DO SERVIDOR/ARQUIVO]
+
+**Data do teste:** DD/MM/AAAA  
+**Responsável:** [Nome do responsável]  
+**Ferramenta utilizada:** [Ex: Veeam, Bacula, etc.]  
+**Tipo de backup:** Full / Incremental / Diferencial  
+**Origem do backup:** [Ex: \\SRV-FILES\Financeiro]  
+**Destino da restauração:** [Ex: VM Teste / Pasta TEMP\Restaure_Test]  
+**Tamanho restaurado:** [em MB/GB]
+
+---
+
+### ✅ Objetivo do Teste:
+[Ex: Validar capacidade de restaurar arquivos críticos do setor financeiro dentro do tempo esperado.]
+
+---
+
+### 🔍 Detalhes:
+
+| Etapa                    | Resultado                         |
+|--------------------------|-----------------------------------|
+| Backup localizado        | Sim / Não                         |
+| Verificação de integridade | OK / Falha                      |
+| Arquivos restaurados     | [Lista de arquivos restaurados]  |
+| Tempo de restauração     | [Ex: 12 minutos]                  |
+| Verificação de integridade dos arquivos | OK / Erro         |
+| RTO atingido?            | Sim / Não                         |
+| RPO aceitável?           | Sim / Não                         |
+
+---
+
+### 📝 Observações:
+[Ex: Backup restaurado com sucesso. O tempo ficou dentro do esperado. Nenhum erro foi detectado.]
+
+---
+
+### ✅ Conclusão:
+[Ex: Backup validado. Nenhuma ação corretiva necessária.]
+
+---
+
+### Próximo teste agendado para: [Data]
